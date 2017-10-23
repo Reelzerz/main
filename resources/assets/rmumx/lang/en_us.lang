@@ -1,0 +1,15 @@
+//items
+item.ingot_copper.name=Copper Ingot
+
+
+//blocks
+tile.block_copper.name=Copper Block
+tile.doku_dirt.name=Doku Dirt
+tile.doku_clay.name=Doku Clay
+tile.doku_coal_block.name=Doku Coal Block
+
+
+//tab names
+itemGroup.reelztab=Materials
+itemGroup.reelztabblock=Blocks
+

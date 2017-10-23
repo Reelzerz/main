@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rmumx",
+  "name": "ReelzWorld",
+  "description": "Ore compalibilty for cubic chunks",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Reelzerz"],
+  "credits": "Reelzerz, Forge Team",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
