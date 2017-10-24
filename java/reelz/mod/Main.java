@@ -24,6 +24,7 @@ public class Main {
 	
 	public static final CreativeTabs REELZ = new ReelzTab("reelztab");
 	public static final CreativeTabs REELZB = new ReelzTabBlocks("reelztabblock");
+	public static final CreativeTabs REELZT = new ReelzTabTools("reelztabtools");
 	
 	public static ModChecker modchecker;
 	

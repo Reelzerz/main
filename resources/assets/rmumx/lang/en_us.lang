@@ -1,5 +1,6 @@
 //items
 item.ingot_copper.name=Copper Ingot
+item.doku_gold_ingot.name=Doku Gold Ingot
 
 
 //blocks
@@ -10,7 +11,16 @@ tile.doku_coal_block.name=Doku Coal Block
 tile.duko_cobblestone.name=Doku Cobblestone
 
 
+//Tools
+item.doku_gold_axe.name=Doku Gold Axe
+item.doku_gold_pickaxe.name=Doku Gold Pickaxe
+item.doku_gold_hoe.name=Doku Gold Hoe
+item.doku_gold_shovel.name=Doku Gold Hoe
+item.doku_gold_sword.name=Doku Gold sword
+
+
 //tab names
 itemGroup.reelztab=Materials
 itemGroup.reelztabblock=Blocks
+itemGroup.reelztabtools=Tools
 
