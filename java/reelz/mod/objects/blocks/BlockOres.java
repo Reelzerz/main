@@ -34,6 +34,7 @@ public class BlockOres extends Block implements IHasModel, IMetaName {
 		super(Material.ROCK);
 		setUnlocalizedName(name);
 		setRegistryName(name);
+		setHardness(3.0F);
 		setCreativeTab(Main.REELZB);
 		setDefaultState(this.blockState.getBaseState().withProperty(VARIANT, EnumHandlerTwo.EnumTypeTwo.COPPER));
 		

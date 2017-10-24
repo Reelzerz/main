@@ -46,6 +46,7 @@ public class BlockLeaf extends BlockLeaves implements IMetaName, IHasModel
 		setUnlocalizedName(name);
 		setRegistryName(name);
 		setSoundType(SoundType.PLANT);
+		setHardness(0.2F);
 		setDefaultState(this.blockState.getBaseState().withProperty(VARIANT, EnumHandler.EnumType.DOKU_OAK).withProperty(CHECK_DECAY, Boolean.valueOf(true)).withProperty(DECAYABLE, Boolean.valueOf(true)));
 		setCreativeTab(Main.REELZB);
 		

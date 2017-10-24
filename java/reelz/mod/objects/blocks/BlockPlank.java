@@ -23,8 +23,8 @@ import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.RayTraceResult;
 import net.minecraft.world.World;
 
-public class BlockPlank extends Block implements IMetaName, IHasModel
-{
+public class BlockPlank extends Block implements IMetaName, IHasModel {
+
 	public static final PropertyEnum<EnumHandler.EnumType> VARIANT = PropertyEnum.<EnumHandler.EnumType>create("variant", EnumHandler.EnumType.class);
 	
 	private String name;
@@ -35,7 +35,7 @@ public class BlockPlank extends Block implements IMetaName, IHasModel
 		setUnlocalizedName(name);
 		setRegistryName(name);
 		setSoundType(SoundType.WOOD);
-		setHarvestLevel(0, 0, blockState);
+		setHardness(2.0F);
 		setDefaultState(this.blockState.getBaseState().withProperty(VARIANT, EnumHandler.EnumType.DOKU_OAK));
 		setCreativeTab(Main.REELZB);
 		

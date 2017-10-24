@@ -8,12 +8,17 @@ tile.block_copper.name=Copper Block
 tile.doku_dirt.name=Doku Dirt
 tile.doku_clay.name=Doku Clay
 tile.doku_coal_block.name=Doku Coal Block
-tile.duko_cobblestone.name=Doku Cobblestone
+tile.doku_cobblestone.name=Doku Cobblestone
 tile.doku_ore_gold.name=Doku Gold Ore
 tile.doku_block_gold.name=Doku Gold Block
 tile.leaves_doku_oak.name=Doku Oak Leaves
 tile.planks_doku_oak.name=Doku Oak Planks
 tile.doku_cobblestone_mossy.name=Doku Mossy Cobblestone
+tile.doku_stone.name=Doku Stone
+tile.doku_stonebrick.name=Doku Stonebrick
+tile.doku_stonebrick_carved.name=Doku Stonebrick Carved
+tile.doku_stonebrick_cracked.name=Doku Stonebrick Cracked
+tile.doku_stonebrick_mossy.name=Doku Mossy Stonebrick
 
 
 //Tools

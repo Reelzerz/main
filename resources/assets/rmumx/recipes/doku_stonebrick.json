@@ -3,20 +3,21 @@
     
     "pattern":
     [
-        "D"   
+        "DD",
+        "DD"   
     ],
     
     "key":
     {
         "D":
         {
-            "item": "rmumx:doku_gold_ingot"
+            "item": "rmumx:doku_stone"
         }
     },
     
     "result":
     {
-        "item": "rmumx:doku_gold_nugget",
-        "count": 9
+        "item": "rmumx:doku_stonebrick",
+        "count": 4
     }
 }
