@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "D",
+        "S",
+        "S"      
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:doku_gold_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:doku_gold_shovel"
+    }
+}

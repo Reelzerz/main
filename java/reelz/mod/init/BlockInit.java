@@ -19,5 +19,7 @@ public class BlockInit {
 	public static final Block DOKU_CLAY = new BlockBase("doku_clay", Material.CLAY);
 	public static final Block DOKU_COAL_BLOCK = new BlockBase("doku_coal_block", Material.ROCK);
 	public static final Block DOKU_COBBLESTONE = new BlockBase("duko_cobblestone", Material.IRON);
+	public static final Block DOKU_ORE_GOLD = new BlockBase("doku_block_gold", Material.IRON);
+	public static final Block DOKU_BLOCK_GOLD = new BlockBase("doku_block_gold", Material.IRON);
 	
 }

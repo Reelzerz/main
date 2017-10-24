@@ -9,18 +9,28 @@ tile.doku_dirt.name=Doku Dirt
 tile.doku_clay.name=Doku Clay
 tile.doku_coal_block.name=Doku Coal Block
 tile.duko_cobblestone.name=Doku Cobblestone
+tile.doku_ore_gold.name=Doku Gold Ore
+tile.doku_block_gold.name=Doku Gold Block
 
 
 //Tools
 item.doku_gold_axe.name=Doku Gold Axe
 item.doku_gold_pickaxe.name=Doku Gold Pickaxe
 item.doku_gold_hoe.name=Doku Gold Hoe
-item.doku_gold_shovel.name=Doku Gold Hoe
-item.doku_gold_sword.name=Doku Gold sword
+item.doku_gold_shovel.name=Doku Gold Shovel
+item.doku_gold_sword.name=Doku Gold Sword
+
+
+//Armor
+item.doku_gold_helmet.name=Doku Gold Helmet
+item.doku_gold_chestplate.name=Doku Gold Chestplate
+item.doku_gold_leggings.name=Doku Gold Leggings
+item.doku_gold_boots.name=Doku Gold Boots
 
 
 //tab names
 itemGroup.reelztab=Materials
 itemGroup.reelztabblock=Blocks
 itemGroup.reelztabtools=Tools
+itemGroup.reelztabarmor=Armor
 
