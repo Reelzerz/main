@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "D"   
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:doku_gold_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:doku_gold_nugget"
+        "count": 9
+    }
+}

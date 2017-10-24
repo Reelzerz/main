@@ -19,12 +19,13 @@ import reelz.mod.init.BlockInit;
 import reelz.mod.init.ItemInit;
 import reelz.mod.objects.blocks.item.ItemBlockVariants;
 import reelz.mod.util.handlers.EnumHandler;
+import reelz.mod.util.handlers.EnumHandlerTwo;
 import reelz.mod.util.interfaces.IHasModel;
 import reelz.mod.util.interfaces.IMetaName;
 
 public class BlockOres extends Block implements IHasModel, IMetaName {
 
-	public static final PropertyEnum<EnumHandler.EnumType> VARIANT = PropertyEnum.<EnumHandler.EnumType>create("variant", EnumHandler.EnumType.class);
+	public static final PropertyEnum<EnumHandlerTwo.EnumTypeTwo> VARIANT = PropertyEnum.<EnumHandlerTwo.EnumTypeTwo>create("variant", EnumHandlerTwo.EnumTypeTwo.class);
 	
 	private String name, dimension;
 	
@@ -34,7 +35,7 @@ public class BlockOres extends Block implements IHasModel, IMetaName {
 		setUnlocalizedName(name);
 		setRegistryName(name);
 		setCreativeTab(Main.REELZB);
-		setDefaultState(this.blockState.getBaseState().withProperty(VARIANT, EnumHandler.EnumType.COPPER));
+		setDefaultState(this.blockState.getBaseState().withProperty(VARIANT, EnumHandlerTwo.EnumTypeTwo.COPPER));
 		
 		this.name = name;
 		this.dimension = dimension;
@@ -46,19 +47,19 @@ public class BlockOres extends Block implements IHasModel, IMetaName {
 	@Override
 	public int damageDropped(IBlockState state) 
 	{
-		return ((EnumHandler.EnumType)state.getValue(VARIANT)).getMeta();
+		return ((EnumHandlerTwo.EnumTypeTwo)state.getValue(VARIANT)).getMeta();
 	}
 	
 	@Override
 	public int getMetaFromState(IBlockState state) 
 	{
-		return ((EnumHandler.EnumType)state.getValue(VARIANT)).getMeta();
+		return ((EnumHandlerTwo.EnumTypeTwo)state.getValue(VARIANT)).getMeta();
 	}
 	
 	@Override
 	public IBlockState getStateFromMeta(int meta) 
 	{
-		return this.getDefaultState().withProperty(VARIANT, EnumHandler.EnumType.byMetadata(meta));
+		return this.getDefaultState().withProperty(VARIANT, EnumHandlerTwo.EnumTypeTwo.byMetadata(meta));
 	}
 	
 	@Override

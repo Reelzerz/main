@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "check_decay=true,decayable=true,variant=doku_oak": { "model": "rmumx:leaves_doku_oak" },
+        "check_decay=true,decayable=false,variant=doku_oak": { "model": "rmumx:leaves_doku_oak" },
+        "check_decay=false,decayable=true,variant=doku_oak": { "model": "rmumx:leaves_doku_oak" },
+        "check_decay=false,decayable=false,variant=doku_oak": { "model": "rmumx:leaves_doku_oak" }
+    }
+}

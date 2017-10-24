@@ -11,6 +11,9 @@ tile.doku_coal_block.name=Doku Coal Block
 tile.duko_cobblestone.name=Doku Cobblestone
 tile.doku_ore_gold.name=Doku Gold Ore
 tile.doku_block_gold.name=Doku Gold Block
+tile.leaves_doku_oak.name=Doku Oak Leaves
+tile.planks_doku_oak.name=Doku Oak Planks
+tile.doku_cobblestone_mossy.name=Doku Mossy Cobblestone
 
 
 //Tools

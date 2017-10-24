@@ -1,22 +1,23 @@
 package reelz.mod.util.handlers;
 
 import net.minecraft.util.IStringSerializable;
+import reelz.mod.util.handlers.EnumHandler.EnumType;
 
-public class EnumHandler {
-	public static enum EnumType implements IStringSerializable
+public class EnumHandlerTwo {
+	public static enum EnumTypeTwo implements IStringSerializable
 	{
-		DOKU_OAK(0, "doku_oak");
+		COPPER(0, "copper");
 		
-		private static final EnumType[] META_LOOKUP = new EnumType[values().length];
+		private static final EnumTypeTwo[] META_LOOKUP = new EnumTypeTwo[values().length];
 		private final int meta;
 		private final String name, unlocializedName;
 		
-		private EnumType(int meta, String name) 
+		private EnumTypeTwo(int meta, String name) 
 		{
 			this(meta, name, name);
 		}
 		
-		private EnumType(int meta, String name, String unlocializedName) 
+		private EnumTypeTwo(int meta, String name, String unlocializedName) 
 		{
 			this.meta = meta;
 			this.name = name;
@@ -45,16 +46,16 @@ public class EnumHandler {
 			return this.name;
 		}
 		
-		public static EnumType byMetadata(int meta)
+		public static EnumTypeTwo byMetadata(int meta)
 		{
 			return META_LOOKUP[meta];
 		}
 		
 		static
 		{
-			for(EnumType enumtype : values())
+			for(EnumTypeTwo enumtypetwo : values())
 			{
-				META_LOOKUP[enumtype.getMeta()] = enumtype;
+				META_LOOKUP[enumtypetwo.getMeta()] = enumtypetwo;
 			}
 		}
 	}

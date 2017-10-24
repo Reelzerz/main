@@ -1,0 +1,6 @@
+{
+    "variants": 
+    {
+        "variant=doku_oak": { "model": "rmumx:planks_doku_oak" }
+    }
+}

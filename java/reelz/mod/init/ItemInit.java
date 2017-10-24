@@ -31,6 +31,7 @@ public class ItemInit {
 	//Items
 	public static final Item INGOT_COPPER = new ItemBase("ingot_copper");
 	public static final Item DOKU_GOLD_INGOT = new ItemBase("doku_gold_ingot");
+	public static final Item DOKU_GOLD_NUGGET = new ItemBase("doku_gold_nugget");
 	
 	//Tools
 	public static final Item DOKU_GOLD_AXE = new ToolAxe("doku_gold_axe", DOKU_TOOL_GOLD);
@@ -40,7 +41,7 @@ public class ItemInit {
 	public static final Item DOKU_GOLD_SWORD = new ToolSword("doku_gold_sword", DOKU_TOOL_GOLD);
 	
 	//Armor
-	public static final Item DOKU_GOLD_Helmet = new ArmorBase("doku_gold_helmet", DOKU_ARMOR_GOLD, 1, EntityEquipmentSlot.HEAD);
+	public static final Item DOKU_GOLD_HELMET = new ArmorBase("doku_gold_helmet", DOKU_ARMOR_GOLD, 1, EntityEquipmentSlot.HEAD);
 	public static final Item DOKU_GOLD_CHESTPLATE = new ArmorBase("doku_gold_chestplate", DOKU_ARMOR_GOLD, 1, EntityEquipmentSlot.CHEST);
 	public static final Item DOKU_GOLD_LEGGINGS = new ArmorBase("doku_gold_leggings", DOKU_ARMOR_GOLD, 2, EntityEquipmentSlot.LEGS);
 	public static final Item DOKU_GOLD_BOOTS = new ArmorBase("doku_gold_boots", DOKU_ARMOR_GOLD, 1, EntityEquipmentSlot.FEET);
