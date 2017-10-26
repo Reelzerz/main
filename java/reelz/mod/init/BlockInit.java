@@ -7,6 +7,7 @@ import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import reelz.mod.objects.blocks.BlockBase;
 import reelz.mod.objects.blocks.BlockBaseDirt;
+import reelz.mod.objects.blocks.BlockBaseGlow;
 import reelz.mod.objects.blocks.BlockBaseStone;
 import reelz.mod.objects.blocks.BlockLeaf;
 import reelz.mod.objects.blocks.BlockOres;
@@ -31,6 +32,8 @@ public class BlockInit {
 	public static final Block DOKU_STONEBRICK_CARVED = new BlockBaseStone("doku_stonebrick_carved", Material.ROCK);
 	public static final Block DOKU_STONEBRICK_CRACKED = new BlockBaseStone("doku_stonebrick_cracked", Material.ROCK);
 	public static final Block DOKU_STONEBRICK_MOSSY = new BlockBaseStone("doku_stonebrick_mossy", Material.ROCK);
+	public static final Block DOKU_COARSE_DIRT = new BlockBaseDirt("doku_coarse_dirt", Material.ROCK);
+	public static final Block DOKU_GLOWSTONE = new BlockBaseGlow("doku_glowstone", Material.GLASS);
 	
 	
 	public static final Block LEAVES = new BlockLeaf("leaves");

@@ -12,8 +12,8 @@ import reelz.mod.init.ItemInit;
 import reelz.mod.util.interfaces.IHasModel;
 
 @EventBusSubscriber
-public class RegistryHandler 
-{
+public class RegistryHandler {
+
 	@SubscribeEvent
 	public static void onItemRegister(RegistryEvent.Register<Item> event)
 	{

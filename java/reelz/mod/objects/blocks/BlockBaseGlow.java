@@ -10,21 +10,21 @@ import reelz.mod.init.BlockInit;
 import reelz.mod.init.ItemInit;
 import reelz.mod.util.interfaces.IHasModel;
 
-public class BlockBaseStone extends Block implements IHasModel {
+public class BlockBaseGlow extends Block implements IHasModel {
 
-	public BlockBaseStone(String name, Material material) 
+	public BlockBaseGlow(String name, Material material) 
 	{
 		super(material);
 		setUnlocalizedName(name);
 		setRegistryName(name);
-		setSoundType(SoundType.STONE);
+		setSoundType(SoundType.GLASS);
 		setHardness(1.5F);
+		setLightLevel(15.0F);
 		setCreativeTab(Main.REELZB);
 		
 		BlockInit.BLOCKS.add(this);
 		ItemInit.ITEMS.add(new ItemBlock(this).setRegistryName(this.getRegistryName()));
 	}
-	
 	@Override
 	public void registerModels() 
 	{

@@ -19,6 +19,8 @@ tile.doku_stonebrick.name=Doku Stonebrick
 tile.doku_stonebrick_carved.name=Doku Stonebrick Carved
 tile.doku_stonebrick_cracked.name=Doku Stonebrick Cracked
 tile.doku_stonebrick_mossy.name=Doku Mossy Stonebrick
+tile.doku_coarse_dirt.name=Doku Coarse Dirt
+tile.doku_glowstone.name=Doku Glowstone
 
 
 //Tools
