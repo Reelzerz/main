@@ -1,6 +1,25 @@
 //items
 item.ingot_copper.name=Copper Ingot
 item.doku_gold_ingot.name=Doku Gold Ingot
+item.bladeoftheruinedking.name=Blade Of The Ruin King
+item.adaptivehelm.name=Adaptive Helm
+item.aegisofthelegion.name=Aegis Of The Legion
+item.aetherwisp.name=Aetherwisp
+item.amplifyingtome.name=Amplifying Tome
+item.ancientcoin.name=Ancient Coin
+item.archangelsstaff.name=Archangels Staff
+item.ardentcenser.name=Ardent Censer
+item.athenesunholygrail.name=Athenes Unholy Grail
+item.bamiscinder.name=Bamis Cinder
+item.bansheesveil.name=Banshees Veil
+item.bfsword.name=B.F. Sword
+item.bilgewatercutlass.name=Bilge Water Cutlass
+item.blastingwand.name=Blasting Wand
+item.bramblevest.name=Bramble Vest
+item.catalystofaeons.name=Catalyst Of Aeons
+item.chainvest.name=Chain Vest
+item.chaliceofharmony.name=Chalice Of Harmony
+item.clotharmor.name=Cloth Armor
 
 
 //blocks

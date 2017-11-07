@@ -33,6 +33,28 @@ public class ItemInit {
 	public static final Item DOKU_GOLD_INGOT = new ItemBase("doku_gold_ingot");
 	public static final Item DOKU_GOLD_NUGGET = new ItemBase("doku_gold_nugget");
 	
+	//League Items
+	public static final Item ABYSSALMASK = new ItemBase("abyssalmask");
+	public static final Item BLADEOFTHERUINKING = new ItemBase("bladeoftheruinedking");
+	public static final Item ADAPTIVEHELM = new ItemBase("adaptivehelm");
+	public static final Item AEGISOFTHELEGION = new ItemBase("aegisofthelegion");
+	public static final Item AETHERWISP = new ItemBase("aetherwisp");
+	public static final Item AMPLIFYINGTOME = new ItemBase("amplifyingtome");
+	public static final Item ANCIENTCOIN = new ItemBase("ancientcoin");
+	public static final Item ARCHANGELSSTAFF = new ItemBase("archangelsstaff");
+	public static final Item ARDENTCENSER = new ItemBase("ardentcenser");
+	public static final Item ATHENESUNHOLYGRAIL = new ItemBase("athenesunholygrail");
+	public static final Item BAMISCINDER = new ItemBase("bamiscinder");
+	public static final Item BANSHEESVEIL = new ItemBase("bansheesveil");
+	public static final Item BFSWORD = new ItemBase("bfsword");
+	public static final Item BILGEWATERCUTLASS = new ItemBase("bilgewatercutlass");
+	public static final Item BLASTINGWAND = new ItemBase("blastingwand");
+	public static final Item BRAMBLEVEST = new ItemBase("bramblevest");
+	public static final Item CATALYSTOFAEONS = new ItemBase("catalystofaeons");
+	public static final Item CHAINVEST = new ItemBase("chainvest");
+	public static final Item CHALICEOFHARMONY = new ItemBase("chaliceofharmony");
+	public static final Item CLOTHARMOR = new ItemBase("clotharmor");
+	
 	//Tools
 	public static final Item DOKU_GOLD_AXE = new ToolAxe("doku_gold_axe", DOKU_TOOL_GOLD);
 	public static final Item DOKU_GOLD_PICKAXE = new ToolPickaxe("doku_gold_pickaxe", DOKU_TOOL_GOLD);
