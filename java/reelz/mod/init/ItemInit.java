@@ -54,6 +54,27 @@ public class ItemInit {
 	public static final Item CHAINVEST = new ItemBase("chainvest");
 	public static final Item CHALICEOFHARMONY = new ItemBase("chaliceofharmony");
 	public static final Item CLOTHARMOR = new ItemBase("clotharmor");
+	public static final Item DAGGER = new ItemBase("dagger");
+	public static final Item DEADMANSPLATE = new ItemBase("deadmansplate");
+	public static final Item FAERIECHARM = new ItemBase("faeriecharm");
+	public static final Item FLENDISHCODEX = new ItemBase("flendishcodex");
+	public static final Item LONGSWORD = new ItemBase("longsword");
+	public static final Item NEEDLESSLYLARGEROD = new ItemBase("needlesslylargerod");
+	public static final Item NEGATRONCLOAK = new ItemBase("negatroncloak");
+	public static final Item NULLMAGICMANTLE = new ItemBase("nullmagicmantle");
+	public static final Item PHAGE = new ItemBase("phage");
+	public static final Item PICKAXE = new ItemBase("pickaxe");
+	public static final Item QUICKSILVERSASH = new ItemBase("quicksilversash");
+	public static final Item RECURVEBOW = new ItemBase("recurvebow");
+	public static final Item REJUVENATEDBEAD = new ItemBase("rejuvenationbead");
+	public static final Item RUBYCRYSTAL = new ItemBase("rubycrystal");
+	public static final Item SAPHIRECRYSTAL = new ItemBase("saphirecrystal");
+	public static final Item SHEEN = new ItemBase("sheen");
+	public static final Item SPECTRESCOWL = new ItemBase("spectrescowl");
+	public static final Item STINGER = new ItemBase("stinger");
+	public static final Item TEAROFTHEGODDESS = new ItemBase("tearofthegoddess");
+	public static final Item VAMPIRICSCEPTER = new ItemBase("vampiricscepter");
+	public static final Item WITSEND = new ItemBase("witsend");
 	
 	//Tools
 	public static final Item DOKU_GOLD_AXE = new ToolAxe("doku_gold_axe", DOKU_TOOL_GOLD);
