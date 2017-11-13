@@ -1,6 +1,7 @@
 //items
 item.ingot_copper.name=Copper Ingot
 item.doku_gold_ingot.name=Doku Gold Ingot
+item.doku_gold_nugget.name=Doku Gold Nugget
 item.bladeoftheruinedking.name=Blade Of The Ruin King
 item.adaptivehelm.name=Adaptive Helm
 item.aegisofthelegion.name=Aegis Of The Legion
@@ -42,6 +43,17 @@ item.stinger.name=Stinger
 item.tearofthegoddess.name=Tear Of The Goddess
 item.vampiricscepter.name=Vampiric Scepter
 item.witsend.name=Wits End
+item.replacedscepter.name=Replaced Scepter
+item.forbiddenidol.name=Forbidden Idol
+item.giantsbelt.name=Giants Belt
+item.kindlegem.name=Kindle Gem
+item.wardensmail.name=Wardens Mail
+item.frozenheart.name=Frozen Heart
+item.glacialshroud.name=Glacial Shroud
+item.frozenmallet.name=Frozen Mallet
+item.jaurimsfist.name=Jaurims Fist
+item.gargoylestoneplate.name=Gargoyle Stoneplate
+item.stopwatch.name=Stopwatch
 
 
 //blocks

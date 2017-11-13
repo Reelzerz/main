@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DDS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:faeriecharm"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:nullmagicmantle"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:chaliceofharmony"
+    }
+}

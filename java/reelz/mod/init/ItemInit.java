@@ -74,7 +74,17 @@ public class ItemInit {
 	public static final Item STINGER = new ItemBase("stinger");
 	public static final Item TEAROFTHEGODDESS = new ItemBase("tearofthegoddess");
 	public static final Item VAMPIRICSCEPTER = new ItemBase("vampiricscepter");
-	public static final Item WITSEND = new ItemBase("witsend");
+	public static final Item REPLACEDSCEPTER = new ItemBase("replacedscepter");
+	public static final Item FORBIDDENIDOL = new ItemBase("forbiddenidol");
+	public static final Item GIANTSBELT = new ItemBase("giantsbelt");
+	public static final Item KINDLEGEM = new ItemBase("kindlegem");
+	public static final Item WARDENSMAIL = new ItemBase("wardensmail");
+	public static final Item FROZENHEART = new ItemBase("frozenheart");
+	public static final Item GLACIALSHROUD = new ItemBase("glacialshroud");
+	public static final Item FROZENMALLET = new ItemBase("frozenmallet");
+	public static final Item JAURIMSFIST = new ItemBase("jaurimsfist");
+	public static final Item GARGOYLESTONEPLATE = new ItemBase("gargoylestoneplate");
+	public static final Item STOPWATCH = new ItemBase("stopwatch");
 	
 	//Tools
 	public static final Item DOKU_GOLD_AXE = new ToolAxe("doku_gold_axe", DOKU_TOOL_GOLD);

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:chaliceofharmony"
+        },
+        "S":
+        {
+            "item": "rmumx:flendishcodex"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:athenesunholygrail"
+    }
+}

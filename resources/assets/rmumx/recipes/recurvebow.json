@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SS"     
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "rmumx:dagger"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:recurvebow"
+    }
+}

@@ -8,7 +8,9 @@ import com.google.common.base.Predicate;
 
 import reelz.mod.Main;
 import reelz.mod.init.BlockInit;
+import reelz.mod.init.BlockInit2;
 import reelz.mod.init.ItemInit;
+import reelz.mod.init.ItemInit2;
 import reelz.mod.objects.blocks.item.ItemBlockVariants;
 import reelz.mod.util.handlers.EnumHandler;
 import reelz.mod.util.interfaces.IHasModel;
@@ -22,6 +24,7 @@ import net.minecraft.block.state.BlockStateContainer;
 import net.minecraft.block.state.IBlockState;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemBlock;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.BlockRenderLayer;
 import net.minecraft.util.NonNullList;

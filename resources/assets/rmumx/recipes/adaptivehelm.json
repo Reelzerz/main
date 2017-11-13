@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DXS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:rejuvenationbead"
+        },
+        
+        "X":
+        {
+            "item": "rmumx:nullmagicmantle"
+        },
+        
+        
+        "S":
+        {
+            "item": "rmumx:spectrescowl"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:adaptivehelm"
+    }
+}

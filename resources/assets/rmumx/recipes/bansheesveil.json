@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DXS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:blastingwand"
+        },
+        
+        "X":
+        {
+            "item": "rmumx:flendishcodex"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:nullmagicmantle"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:bansheesveil"
+    }
+}

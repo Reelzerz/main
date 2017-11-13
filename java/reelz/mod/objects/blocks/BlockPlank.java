@@ -2,7 +2,9 @@ package reelz.mod.objects.blocks;
 
 import reelz.mod.Main;
 import reelz.mod.init.BlockInit;
+import reelz.mod.init.BlockInit2;
 import reelz.mod.init.ItemInit;
+import reelz.mod.init.ItemInit2;
 import reelz.mod.objects.blocks.item.ItemBlockVariants;
 import reelz.mod.util.handlers.EnumHandler;
 import reelz.mod.util.interfaces.IHasModel;
@@ -17,6 +19,7 @@ import net.minecraft.block.state.IBlockState;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemBlock;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.NonNullList;
 import net.minecraft.util.math.BlockPos;
@@ -43,8 +46,6 @@ public class BlockPlank extends Block implements IMetaName, IHasModel {
 		
 		BlockInit.BLOCKS.add(this);
 		ItemInit.ITEMS.add(new ItemBlockVariants(this).setRegistryName(this.getRegistryName()));
-		
-	
 	}
 	
 	private void setHarvestLevel(int i, int level, BlockStateContainer blockState) {

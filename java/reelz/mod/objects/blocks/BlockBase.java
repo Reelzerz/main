@@ -6,7 +6,9 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
 import reelz.mod.Main;
 import reelz.mod.init.BlockInit;
+import reelz.mod.init.BlockInit2;
 import reelz.mod.init.ItemInit;
+import reelz.mod.init.ItemInit2;
 import reelz.mod.util.interfaces.IHasModel;
 
 public class BlockBase extends Block implements IHasModel {
