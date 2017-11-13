@@ -1,5 +1,5 @@
 # main
-ReelzWorld Mod.. A collection of Resourcepacks in modded form..
+ReelzWorld Mod.. A collection of Resourcepacks in modded form.. Also A Handful of helpful mapping Items..
 
 Credits:
 Hickerydickery
