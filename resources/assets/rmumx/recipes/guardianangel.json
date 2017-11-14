@@ -10,22 +10,22 @@
     {
         "D":
         {
-            "item": "rmumx:rejuvenationbead"
+            "item": "rmumx:bfsword"
         },
         
         "X":
         {
-            "item": "rmumx:nullmagicmantle"
+            "item": "rmumx:clotharmor"
         },
         
         "S":
         {
-            "item": "rmumx:spectrescowl"
+            "item": "rmumx:stopwatch"
         }
     },
     
     "result":
     {
-        "item": "rmumx:adaptivehelm"
+        "item": "rmumx:guardianangel"
     }
 }

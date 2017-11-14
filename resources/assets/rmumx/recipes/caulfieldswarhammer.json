@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:longsword"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:longsword"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:caulfieldswarhammer"
+    }
+}

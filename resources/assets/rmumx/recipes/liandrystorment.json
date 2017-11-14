@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:blastingwand"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:hauntingguise"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:liandrystorment"
+    }
+}

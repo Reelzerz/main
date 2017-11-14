@@ -85,6 +85,17 @@ public class ItemInit {
 	public static final Item JAURIMSFIST = new ItemBase("jaurimsfist");
 	public static final Item GARGOYLESTONEPLATE = new ItemBase("gargoylestoneplate");
 	public static final Item STOPWATCH = new ItemBase("stopwatch");
+	public static final Item GUARDIANSANGEL = new ItemBase("guardianangel");
+	public static final Item GUINSOOSRAGEBLADE = new ItemBase("guinsoosrageblade");
+	public static final Item HAUNTINGGUISE = new ItemBase("hauntingguise");
+	public static final Item ICEBORNGAUNNTLET = new ItemBase("iceborngauntlet");
+	public static final Item KNIGHTSVOW = new ItemBase("knightsvow");
+	public static final Item LIANDRYSTORMENT = new ItemBase("liandrystorment");
+	public static final Item LICHBANE = new ItemBase("lichbane");
+	public static final Item LOCKETOFTHEIRONSOLARI = new ItemBase("locketoftheironsolari");
+	public static final Item MAWOFMALMORTIUS = new ItemBase("mawofmalmortius");
+	public static final Item HEXDRINKER = new ItemBase("hexdrinker");
+	public static final Item CAULFIELDSWARHAMMER = new ItemBase("caulfieldswarhammer");
 	
 	//Tools
 	public static final Item DOKU_GOLD_AXE = new ToolAxe("doku_gold_axe", DOKU_TOOL_GOLD);

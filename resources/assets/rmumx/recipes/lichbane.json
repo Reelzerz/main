@@ -10,22 +10,22 @@
     {
         "D":
         {
-            "item": "rmumx:rejuvenationbead"
+            "item": "rmumx:blastingwand"
         },
         
         "X":
         {
-            "item": "rmumx:nullmagicmantle"
+            "item": "rmumx:sheen"
         },
         
         "S":
         {
-            "item": "rmumx:spectrescowl"
+            "item": "rmumx:aetherwisp"
         }
     },
     
     "result":
     {
-        "item": "rmumx:adaptivehelm"
+        "item": "rmumx:lichbane"
     }
 }

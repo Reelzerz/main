@@ -5,12 +5,12 @@ item.doku_gold_nugget.name=Doku Gold Nugget
 item.bladeoftheruinedking.name=Blade Of The Ruin King
 item.adaptivehelm.name=Adaptive Helm
 item.aegisofthelegion.name=Aegis Of The Legion
-item.aetherwisp.name=Aetherwisp
+item.aetherwisp.name=Aether Wisp
 item.amplifyingtome.name=Amplifying Tome
 item.ancientcoin.name=Ancient Coin
 item.archangelsstaff.name=Archangels Staff
 item.ardentcenser.name=Ardent Censer
-item.athenesunholygrail.name=Athenes Unholy Grail
+item.athenesunholygrail.name=Athene's Unholy Grail
 item.bamiscinder.name=Bamis Cinder
 item.bansheesveil.name=Banshees Veil
 item.bfsword.name=B.F. Sword
@@ -51,9 +51,20 @@ item.wardensmail.name=Wardens Mail
 item.frozenheart.name=Frozen Heart
 item.glacialshroud.name=Glacial Shroud
 item.frozenmallet.name=Frozen Mallet
-item.jaurimsfist.name=Jaurims Fist
+item.jaurimsfist.name=Jaurim's Fist
 item.gargoylestoneplate.name=Gargoyle Stoneplate
 item.stopwatch.name=Stopwatch
+item.guardianangel.name=Guardian Angel
+item.guinsoosrageblade.name=Guinsoo's Rageblade
+item.hauntingguise.name=Haunting Guise
+item.iceborngauntlet.name=Iceborn Gauntlet
+item.knightsvow.name=Knight's Vow
+item.liandrystorment.name=Liandry's Torment
+item.lichbane.name=Lich Bane
+item.locketoftheironsolari.name=Locket Of The Iron Solari
+item.mawofmalmortius.name=Maw Of Malmortius
+item.hexdrinker.name=Hex Drinker
+item.caulfieldswarhammer.name=Caulfield's Warhammer
 
 
 //blocks

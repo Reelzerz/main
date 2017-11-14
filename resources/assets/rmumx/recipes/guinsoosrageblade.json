@@ -10,22 +10,22 @@
     {
         "D":
         {
-            "item": "rmumx:rejuvenationbead"
+            "item": "rmumx:blastingwand"
         },
         
         "X":
         {
-            "item": "rmumx:nullmagicmantle"
+            "item": "rmumx:pickaxe"
         },
         
         "S":
         {
-            "item": "rmumx:spectrescowl"
+            "item": "rmumx:recurvebow"
         }
     },
     
     "result":
     {
-        "item": "rmumx:adaptivehelm"
+        "item": "rmumx:guinsoosrageblade"
     }
 }

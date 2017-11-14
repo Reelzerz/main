@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DDD",
+        "DDD",
+        "DDD"
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:doku_gold_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:doku_block_gold"
+    }
+}

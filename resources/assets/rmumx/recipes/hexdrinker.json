@@ -3,29 +3,24 @@
     
     "pattern":
     [
-        "DXS"     
+        "DS"     
     ],
     
     "key":
     {
         "D":
         {
-            "item": "rmumx:rejuvenationbead"
-        },
-        
-        "X":
-        {
             "item": "rmumx:nullmagicmantle"
         },
         
         "S":
         {
-            "item": "rmumx:spectrescowl"
+            "item": "rmumx:longsword"
         }
     },
     
     "result":
     {
-        "item": "rmumx:adaptivehelm"
+        "item": "rmumx:hexdrinker"
     }
 }
