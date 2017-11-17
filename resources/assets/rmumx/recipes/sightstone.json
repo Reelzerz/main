@@ -3,7 +3,7 @@
     
     "pattern":
     [
-        "SSS"     
+        "S"     
     ],
     
     "key":
@@ -16,6 +16,6 @@
     
     "result":
     {
-        "item": "rmumx:giantsbelt"
+        "item": "rmumx:sightstone"
     }
 }

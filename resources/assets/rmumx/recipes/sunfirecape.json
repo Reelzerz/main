@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DXS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:rubycrystal"
+        },
+        
+        "X":
+        {
+            "item": "rmumx:chainvest"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:bamiscinder"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:sunfirecape"
+    }
+}

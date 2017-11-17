@@ -3,19 +3,24 @@
     
     "pattern":
     [
-        "SSS"     
+        "DDS"     
     ],
     
     "key":
     {
+        "D":
+        {
+            "item": "rmumx:dagger"
+        },
+        
         "S":
         {
-            "item": "rmumx:rubycrystal"
+            "item": "rmumx:zeal"
         }
     },
     
     "result":
     {
-        "item": "rmumx:giantsbelt"
+        "item": "rmumx:phantomdancer"
     }
 }

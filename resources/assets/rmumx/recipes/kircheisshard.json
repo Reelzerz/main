@@ -3,19 +3,19 @@
     
     "pattern":
     [
-        "SSS"     
+        "S"     
     ],
     
     "key":
     {
         "S":
         {
-            "item": "rmumx:rubycrystal"
+            "item": "rmumx:dagger"
         }
     },
     
     "result":
     {
-        "item": "rmumx:giantsbelt"
+        "item": "rmumx:kircheisshard"
     }
 }

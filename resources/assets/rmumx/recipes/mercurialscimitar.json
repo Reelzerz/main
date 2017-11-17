@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DXS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:pickaxe"
+        },
+        
+        "X":
+        {
+            "item": "rmumx:vampiricscepter"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:quicksilversash"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:mercurialscimitar"
+    }
+}

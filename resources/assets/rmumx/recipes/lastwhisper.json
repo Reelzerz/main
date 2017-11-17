@@ -3,7 +3,7 @@
     
     "pattern":
     [
-        "DD"     
+        "DS"     
     ],
     
     "key":
@@ -11,11 +11,16 @@
         "D":
         {
             "item": "rmumx:longsword"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:replacedscepter"
         }
     },
     
     "result":
     {
-        "item": "rmumx:caulfieldswarhammer"
+        "item": "rmumx:lastwhisper"
     }
 }

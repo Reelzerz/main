@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DXS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:amplifyingtome"
+        },
+        
+        "X":
+        {
+            "item": "rmumx:nflendishcodex"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:lostchapter"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:morellonomicon"
+    }
+}

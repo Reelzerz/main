@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DXS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:dagger"
+        },
+        "X":
+        {
+            "item": "rmumx:replacedscepter"
+        },
+        "S":
+        {
+            "item": "rmumx:zeal"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:runaanshurricane"
+    }
+}

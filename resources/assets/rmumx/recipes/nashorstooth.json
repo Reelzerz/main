@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:flendishcodex"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:stinger"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:nashorstooth"
+    }
+}

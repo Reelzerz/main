@@ -3,12 +3,17 @@
     
     "pattern":
     [
-        "DD"     
+        "DXX"     
     ],
     
     "key":
     {
         "D":
+        {
+            "item": "rmumx:rejuvenationbead"
+        },
+        
+        "X":
         {
             "item": "rmumx:longsword"
         }
@@ -16,6 +21,6 @@
     
     "result":
     {
-        "item": "rmumx:caulfieldswarhammer"
+        "item": "rmumx:tiamat"
     }
 }

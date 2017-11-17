@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:bootsofspeed"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:clotharmor"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:ninjatabi"
+    }
+}

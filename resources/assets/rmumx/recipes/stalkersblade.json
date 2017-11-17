@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DSS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:huntersmachete"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:hunterstalisman"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:stalkersblade"
+    }
+}

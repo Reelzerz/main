@@ -3,19 +3,19 @@
     
     "pattern":
     [
-        "SSS"     
+        "DDD"     
     ],
     
     "key":
     {
-        "S":
+        "D":
         {
-            "item": "rmumx:rubycrystal"
+            "item": "rmumx:longsword"
         }
     },
     
     "result":
     {
-        "item": "rmumx:giantsbelt"
+        "item": "rmumx:giantslayer"
     }
 }

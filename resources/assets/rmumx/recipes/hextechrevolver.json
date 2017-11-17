@@ -3,19 +3,19 @@
     
     "pattern":
     [
-        "SSS"     
+        "SS"     
     ],
     
     "key":
     {
         "S":
         {
-            "item": "rmumx:rubycrystal"
+            "item": "rmumx:amplifyingtome"
         }
     },
     
     "result":
     {
-        "item": "rmumx:giantsbelt"
+        "item": "rmumx:hextechrevolver"
     }
 }

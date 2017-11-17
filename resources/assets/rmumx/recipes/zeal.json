@@ -3,19 +3,23 @@
     
     "pattern":
     [
-        "DD"     
+        "DX"     
     ],
     
     "key":
     {
         "D":
         {
-            "item": "rmumx:longsword"
+            "item": "rmumx:brawlersgloves"
+        },
+        "X":
+        {
+            "item": "rmumx:dagger"
         }
     },
     
     "result":
     {
-        "item": "rmumx:caulfieldswarhammer"
+        "item": "rmumx:zeal"
     }
 }

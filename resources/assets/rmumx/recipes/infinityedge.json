@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DXS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:cloakofagility"
+        },
+        
+        "X":
+        {
+            "item": "rmumx:bfsword"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:pickaxe"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:infinityedge"
+    }
+}

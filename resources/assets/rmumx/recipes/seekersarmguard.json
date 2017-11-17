@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DSS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:amplifyingtome"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:clotharmor"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:seekersarmguard"
+    }
+}

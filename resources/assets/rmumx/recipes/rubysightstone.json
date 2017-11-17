@@ -3,11 +3,16 @@
     
     "pattern":
     [
-        "SSS"     
+        "DS"     
     ],
     
     "key":
     {
+        "D":
+        {
+            "item": "rmumx:sightstone"
+        },
+        
         "S":
         {
             "item": "rmumx:rubycrystal"
@@ -16,6 +21,6 @@
     
     "result":
     {
-        "item": "rmumx:giantsbelt"
+        "item": "rmumx:rubysightstone"
     }
 }
