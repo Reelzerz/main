@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SX"     
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "rmumx:bootsofspeed"
+        },
+        "X":
+        {
+            "item": "rmumx:replacedscepter"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:bootsofswiftness"
+    }
+}

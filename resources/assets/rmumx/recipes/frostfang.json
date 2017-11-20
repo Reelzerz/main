@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:faeriecharm"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:spellthiefsedge"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:frostfang"
+    }
+}

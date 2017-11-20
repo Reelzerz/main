@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DDS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:caulfieldswarhammer"
+        },
+        "S":
+        {
+            "item": "rmumx:serrateddirk"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:youmuusghostblade"
+    }
+}

@@ -156,6 +156,33 @@ public class ItemInit {
 	public static final Item ESSENCEREAVER = new ItemBase("essencereaver");
 	public static final Item ZHONYASHOURGLASS = new ItemBase("zhonyashourglass");
 	public static final Item RIGHTEOUSGLORY = new ItemBase("righteousglory");
+	public static final Item BOOTSOFMOBILITY = new ItemBase("bootsofmobility");
+	public static final Item BOOTSOFSWIFTNESS = new ItemBase("bootsofswiftness");
+	public static final Item CONTROLWARD = new ItemBase("controlward");
+	public static final Item REFILLABLEPOTION = new ItemBase("refillablepotion");
+	public static final Item HUNTERSPOTION = new ItemBase("hunterspotion");
+	public static final Item CORRUPTINGPOTION = new ItemBase("corruptingpotion");
+	public static final Item CULL = new ItemBase("cull");
+	public static final Item DEATHSDAUGHTER = new ItemBase("deathsdaughter");
+	public static final Item DORANSBLADE = new ItemBase("doransblade");
+	public static final Item DORANSRING = new ItemBase("doransring");
+	public static final Item DORANSSHIELD = new ItemBase("doransshield");
+	public static final Item DUSKBLADEOFDRAKTHARR = new ItemBase("duskbladeofdraktharr");
+	public static final Item YOUMUUSGHOSTBLADE = new ItemBase("youmuusghostblade");
+	public static final Item EYEOFTHEEQUINOX = new ItemBase("eyeoftheequinox");
+	public static final Item FACEOFTHEMOUTAIN = new ItemBase("faceofthemountain");
+	public static final Item EYEOFTHEOASIS = new ItemBase("eyeoftheoasis");
+	public static final Item SPELLTHIEFSEDGE = new ItemBase("spellthiefsedge");
+	public static final Item FROSTFANG = new ItemBase("frostfang");
+	public static final Item EYEOFTHEWATCHERS = new ItemBase("eyeofthewatchers");
+	public static final Item WARDINGTOTEM = new ItemBase("wardingtotem");
+	public static final Item FARSIGHTALTERATION = new ItemBase("farsightalteration");
+	public static final Item FIREATWILL = new ItemBase("fireatwill");
+	public static final Item FROSTQUEENSCLAIM = new ItemBase("frostqueensclaim");
+	public static final Item GUARDIANSHAMMER = new ItemBase("guardianshammer");
+	public static final Item GUARDIANSHORN = new ItemBase("guardianshorn");
+	public static final Item GUARDIANSORB = new ItemBase("guardiansorb");
+	public static final Item HEALTHPOTION = new ItemBase("healthpotion");
 	
 	//Tools
 	public static final Item DOKU_GOLD_AXE = new ToolAxe("doku_gold_axe", DOKU_TOOL_GOLD);

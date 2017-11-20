@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SSS"     
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "rmumx:wardingtotem"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:farsightalteration"
+    }
+}
