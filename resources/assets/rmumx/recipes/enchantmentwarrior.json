@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SSS"     
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "rmumx:caulfieldswarhammer"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:enchantmentwarrior"
+    }
+}

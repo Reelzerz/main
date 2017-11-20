@@ -183,6 +183,20 @@ public class ItemInit {
 	public static final Item GUARDIANSHORN = new ItemBase("guardianshorn");
 	public static final Item GUARDIANSORB = new ItemBase("guardiansorb");
 	public static final Item HEALTHPOTION = new ItemBase("healthpotion");
+	public static final Item MIKAELSCRUCIBLE = new ItemBase("mikaelscrucible");
+	public static final Item REDEMPTION = new ItemBase("redemption");
+	public static final Item LORDDOMINIKSREGARDS = new ItemBase("lorddominiksregards");
+	public static final Item MORTALREMINDER = new ItemBase("mortalreminder");
+	public static final Item TITANICHYDRA = new ItemBase("titanichydra");
+	public static final Item HEXTECHGUNBLADE = new ItemBase("hextechgunblade");
+	public static final Item LORDVANDAMMSPILLAGER = new ItemBase("lordvandammspillager");
+	public static final Item ENCHANTMENTWARRIOR = new ItemBase("enchantmentwarrior");
+	public static final Item TALISMANOFASCENSION = new ItemBase("talismanofascension");
+	public static final Item BANNEROFCOMMAND = new ItemBase("bannerofcommand");
+	public static final Item OHMWRECKER = new ItemBase("ohmwrecker");
+	public static final Item ZZROTPORTAL = new ItemBase("zzrotportal");
+	public static final Item MOONFLAIRSPELLBLADE = new ItemBase("moonflairspellblade");
+	public static final Item WOOGLETSWITCHCAP = new ItemBase("woogletswitchcap");
 	
 	//Tools
 	public static final Item DOKU_GOLD_AXE = new ToolAxe("doku_gold_axe", DOKU_TOOL_GOLD);

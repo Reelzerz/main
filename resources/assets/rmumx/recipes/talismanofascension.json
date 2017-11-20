@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:nomadsmedallion"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:raptorcloak"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:talismanofascension"
+    }
+}

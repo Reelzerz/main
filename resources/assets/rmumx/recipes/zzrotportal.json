@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:raptorcloak"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:negatroncloak"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:zzrotportal"
+    }
+}
