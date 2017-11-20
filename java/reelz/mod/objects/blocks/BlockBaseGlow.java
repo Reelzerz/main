@@ -7,9 +7,7 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
 import reelz.mod.Main;
 import reelz.mod.init.BlockInit;
-import reelz.mod.init.BlockInit2;
 import reelz.mod.init.ItemInit;
-import reelz.mod.init.ItemInit2;
 import reelz.mod.util.interfaces.IHasModel;
 
 public class BlockBaseGlow extends Block implements IHasModel {
@@ -21,7 +19,8 @@ public class BlockBaseGlow extends Block implements IHasModel {
 		setRegistryName(name);
 		setSoundType(SoundType.GLASS);
 		setHardness(1.5F);
-		setLightLevel(15.0F);
+		setLightLevel(1.0F);
+		setResistance(0.5F);
 		setCreativeTab(Main.REELZB);
 		
 		BlockInit.BLOCKS.add(this);

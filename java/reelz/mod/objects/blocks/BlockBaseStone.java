@@ -21,6 +21,7 @@ public class BlockBaseStone extends Block implements IHasModel {
 		setRegistryName(name);
 		setSoundType(SoundType.STONE);
 		setHardness(1.5F);
+		setResistance(1.5F);
 		setCreativeTab(Main.REELZB);
 		
 		BlockInit.BLOCKS.add(this);

@@ -166,6 +166,7 @@ item.ohmwrecker.name=Ohmwrecker
 item.zzrotportal.name=ZZ'Rot Portal
 item.moonflairspellblade.name=Moonflair Spellblade
 item.woogletswitchcap.name=Wooglet's Witchcap
+item.abyssalmask.name=Abyssal Mask
 
 
 //blocks
@@ -186,6 +187,7 @@ tile.doku_stonebrick_cracked.name=Doku Stonebrick Cracked
 tile.doku_stonebrick_mossy.name=Doku Mossy Stonebrick
 tile.doku_coarse_dirt.name=Doku Coarse Dirt
 tile.doku_glowstone.name=Doku Glowstone
+tile.doku_glass.name=Doku Glass
 
 
 //Tools

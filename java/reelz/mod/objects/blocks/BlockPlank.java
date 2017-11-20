@@ -39,6 +39,7 @@ public class BlockPlank extends Block implements IMetaName, IHasModel {
 		setRegistryName(name);
 		setSoundType(SoundType.WOOD);
 		setHardness(2.0F);
+		setResistance(1.0F);
 		setDefaultState(this.blockState.getBaseState().withProperty(VARIANT, EnumHandler.EnumType.DOKU_OAK));
 		setCreativeTab(Main.REELZB);
 		
