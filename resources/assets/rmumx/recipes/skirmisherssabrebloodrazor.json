@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SD"     
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "rmumx:skirmisherssabre"
+        }
+        "D":
+        {
+            "item": "rmumx:recurvebow"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:skirmisherssabrebloodrazor"
+    }
+}

@@ -6,6 +6,8 @@ import java.util.List;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import reelz.mod.objects.blocks.BlockBase;
+import reelz.mod.objects.blocks.BlockBase2;
+import reelz.mod.objects.blocks.BlockBaseCheat;
 import reelz.mod.objects.blocks.BlockBaseDirt;
 import reelz.mod.objects.blocks.BlockBaseGlass;
 import reelz.mod.objects.blocks.BlockBaseGlow;
@@ -36,6 +38,17 @@ public class BlockInit {
 	public static final Block DOKU_COARSE_DIRT = new BlockBaseDirt("doku_coarse_dirt", Material.ROCK);
 	public static final Block DOKU_GLOWSTONE = new BlockBaseGlow("doku_glowstone", Material.GLASS);
 	public static final Block DOKU_GLASS = new BlockBaseGlass("doku_glass", Material.GLASS);
+	public static final Block DOKU_GLASS_BLACK = new BlockBaseGlass("doku_glass_black", Material.GLASS);
+	public static final Block DOKU_GLASS_BLUE = new BlockBaseGlass("doku_glass_blue", Material.GLASS);
+	public static final Block DOKU_GLASS_BROWN = new BlockBaseGlass("doku_glass_brown", Material.GLASS);
+	public static final Block DOKU_GLASS_CYAN = new BlockBaseGlass("doku_glass_cyan", Material.GLASS);
+	
+	//Testing
+	public static final Block TESTINGCUBE = new BlockBase2("testingcube", Material.GLASS);
+	
+	//Other
+	public static final Block CHEATSKI = new BlockBaseCheat("cheatski", Material.GLASS);
+	public static final Block BROKENSTEEL = new BlockBase("brokensteel", Material.IRON);
 	
 	
 	public static final Block LEAVES = new BlockLeaf("leaves");

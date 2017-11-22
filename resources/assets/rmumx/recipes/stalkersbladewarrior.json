@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:stalkersblade"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:caulfieldswarhammer"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:stalkersbladewarrior"
+    }
+}

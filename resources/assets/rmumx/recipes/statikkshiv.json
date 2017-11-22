@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DRS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:zeal"
+        },
+        
+        "R":
+        {
+            "item": "rmumx:replacedscepter"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:kircheisshard"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:statikkshiv"
+    }
+}

@@ -9,7 +9,9 @@ import net.minecraft.item.Item;
 import net.minecraft.item.Item.ToolMaterial;
 import net.minecraft.item.ItemArmor.ArmorMaterial;
 import reelz.mod.objects.armor.ArmorBase;
+import reelz.mod.objects.armor.ArmorBase2;
 import reelz.mod.objects.items.ItemBase;
+import reelz.mod.objects.items.ItemBase2;
 import reelz.mod.objects.tools.ToolAxe;
 import reelz.mod.objects.tools.ToolHoe;
 import reelz.mod.objects.tools.ToolPickaxe;
@@ -197,6 +199,40 @@ public class ItemInit {
 	public static final Item ZZROTPORTAL = new ItemBase("zzrotportal");
 	public static final Item MOONFLAIRSPELLBLADE = new ItemBase("moonflairspellblade");
 	public static final Item WOOGLETSWITCHCAP = new ItemBase("woogletswitchcap");
+	public static final Item ELIXEROFSORCERY = new ItemBase("elixirofsorcery");
+	public static final Item ELIXEROFIRON = new ItemBase("elixirofiron");
+	public static final Item ELIXEROFWRATH = new ItemBase("elixirofwrath");
+	public static final Item ENCHANTMENTBLOODRAZOR = new ItemBase("enchantmentbloodrazor");
+	public static final Item ENCHANTMENTCINDERHULK = new ItemBase("enchantmentcinderhulk");
+	public static final Item HEXTECHGLP800 = new ItemBase("hextechglp800");
+	public static final Item HEXTECHPROTOBELT01 = new ItemBase("hextechprotobelt01");
+	public static final Item IONIANBOOTSOFLUCIDITY = new ItemBase("ionianbootsoflucidity");
+	public static final Item LUDENSECHO = new ItemBase("ludensecho");
+	public static final Item WARMOGSARMOR = new ItemBase("warmogsarmor");
+	public static final Item THEDARKSEAL = new ItemBase("thedarkseal");
+	public static final Item MEJAISSOULSTEALER = new ItemBase("mejaissoulstealer");
+	public static final Item MINIONDEMATERIALIZER = new ItemBase("miniondematerializer");
+	public static final Item SWEEPINGLENS = new ItemBase("sweepinglens");
+	public static final Item ORACLEALTERATION = new ItemBase("oraclealteration");
+	public static final Item ORACLESEXTRACT = new ItemBase("oraclesextract");
+	public static final Item PROTOTYPEHEXCORE = new ItemBase("prototypehexcore");
+	public static final Item THEHEXCOREMK1 = new ItemBase("thehexcoremk1");
+	public static final Item THEHEXCOREMK2 = new ItemBase("thehexcoremk2");
+	public static final Item PERFECTHEXCORE = new ItemBase("perfecthexcore");
+	public static final Item POROSNAX = new ItemBase("porosnax");
+	public static final Item RAISEMORALE = new ItemBase("raisemorale");
+	public static final Item RAPIDFIRECANNON = new ItemBase("rapidfirecannon");
+	public static final Item STATIKKSHIV = new ItemBase("statikkshiv");
+	public static final Item THEBLACKSPEAR = new ItemBase("theblackspear");
+	public static final Item SKIRMISHERSSABERBLOODRAZOR = new ItemBase("skirmisherssabrebloodrazor");
+	public static final Item SKIRMISHERSSABERCINDERHULK = new ItemBase("skirmisherssabrecinderhulk");
+	public static final Item SKIRMISHERSSABERWARRIOR = new ItemBase("skirmisherssabrewarrior");
+	public static final Item STALKERSBLADEBLOODRAZER = new ItemBase("stalkersbladebloodrazor");
+	public static final Item STALKERSBLADECINDERHULK = new ItemBase("stalkersbladecinderhulk");
+	public static final Item STALKERSBLADEWARRIOR = new ItemBase("stalkersbladewarrior");
+	public static final Item TRACKERSKNIFEBLOODRAZOR = new ItemBase("trackersknifebloodrazor");
+	public static final Item TRACKERSKNIFECINDERHULK = new ItemBase("trackersknifecinderhulk");
+	public static final Item TRACKERSKNIFEWARRIOR = new ItemBase("trackersknifewarrior");
 	
 	//Tools
 	public static final Item DOKU_GOLD_AXE = new ToolAxe("doku_gold_axe", DOKU_TOOL_GOLD);
@@ -210,6 +246,28 @@ public class ItemInit {
 	public static final Item DOKU_GOLD_CHESTPLATE = new ArmorBase("doku_gold_chestplate", DOKU_ARMOR_GOLD, 1, EntityEquipmentSlot.CHEST);
 	public static final Item DOKU_GOLD_LEGGINGS = new ArmorBase("doku_gold_leggings", DOKU_ARMOR_GOLD, 2, EntityEquipmentSlot.LEGS);
 	public static final Item DOKU_GOLD_BOOTS = new ArmorBase("doku_gold_boots", DOKU_ARMOR_GOLD, 1, EntityEquipmentSlot.FEET);
+	
+	//Legendary
+	public static final Item LEGENDSWORD1 = new ItemBase("legendsword1");
+	
+	//GNames These Items are meant for the player to give names too..
+	public static final Item GNAME1 = new ItemBase("gname1");
+	public static final Item GNAME2 = new ItemBase("gname2");
+	public static final Item GNAME3 = new ItemBase("gname3");
+	public static final Item GNAME4 = new ItemBase("gname4");
+	public static final Item GNAME5 = new ItemBase("gname5");
+	public static final Item GNAME6 = new ItemBase("gname6");
+	public static final Item GNAME7 = new ItemBase("gname7");
+	public static final Item GNAME8 = new ItemBase("gname8");
+	
+	//Testing
+	public static final Item TESTINGGEM = new ItemBase2("testinggem");
+	public static final Item TESTINGINGOT = new ItemBase2("testingingot");
+	public static final ArmorMaterial TESTINGARMOR = EnumHelper.addArmorMaterial("testing", Reference.MODID + ":test", 7, new int[]{1, 3, 5, 2}, 25, SoundEvents.ITEM_ARMOR_EQUIP_GOLD, 0.0F);
+	public static final Item TEST_HELMET = new ArmorBase2("test_helmet", TESTINGARMOR, 1, EntityEquipmentSlot.HEAD);
+	public static final Item TEST_CHESTPLATE = new ArmorBase2("test_chestplate", TESTINGARMOR, 1, EntityEquipmentSlot.CHEST);
+	public static final Item TEST_LEGGINGS = new ArmorBase2("test_leggings", TESTINGARMOR, 2, EntityEquipmentSlot.LEGS);
+	public static final Item TEST_BOOTS = new ArmorBase2("test_boots", TESTINGARMOR, 1, EntityEquipmentSlot.FEET);
 	
 
 }

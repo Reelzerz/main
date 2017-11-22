@@ -3,7 +3,7 @@
     
     "pattern":
     [
-        "SSS"     
+        "SD"     
     ],
     
     "key":
@@ -11,6 +11,11 @@
         "S":
         {
             "item": "rmumx:longsword"
+        },
+
+        "D":
+        {
+            "item": "rmumx:dagger"
         }
     },
     

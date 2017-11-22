@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:bamiscinder"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:trackersknife"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:trackersknifecinderhulk"
+    }
+}

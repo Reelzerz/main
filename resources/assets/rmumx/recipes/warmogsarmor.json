@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DXS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:giantsbelt"
+        },
+        
+        "X":
+        {
+            "item": "rmumx:kindlegem"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:crystallinebracer"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:warmogsarmor"
+    }
+}

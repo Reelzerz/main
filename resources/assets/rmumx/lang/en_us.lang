@@ -167,9 +167,66 @@ item.zzrotportal.name=ZZ'Rot Portal
 item.moonflairspellblade.name=Moonflair Spellblade
 item.woogletswitchcap.name=Wooglet's Witchcap
 item.abyssalmask.name=Abyssal Mask
+item.elixirofsorcery.name=Elixir Of Sorcery
+item.elixirofiron.name=Elixir Of Iron
+item.elixirofwrath.name=Elixir Of Wrath
+item.enchantmentbloodrazor.name=Enchantment: Bloodrazor
+item.enchantmentcinderhulk.name=Enchantment: Cinderhulk
+item.hextechglp800.name=Hextech GLP-800
+item.hextechprotobelt01.name=Hextech Protobelt-01
+item.ionianbootsoflucidity.name=Ionian Boots Of Lucidity
+item.ludensecho.name=Luden's Echo
+item.warmogsarmor.name=Warmog's Armor
+item.thedarkseal.name=The Dark Seal
+item.mejaissoulstealer.name=Mejai's Soulstealer
+item.miniondematerializer.name=Minion Dematerializer
+item.sweepinglens.name=Sweeping Lens
+item.oraclealteration.name=Oracle Alteration
+item.oraclesextract.name=Oracle's Extract
+item.prototypehexcore.name=Prototype Hex Core
+item.thehexcoremk1.name=The Hex Core MK-1
+item.thehexcoremk2.name=The Hex Core MK-2
+item.perfecthexcore.name=Perfect Hex Core
+item.porosnax.name=Poro Snax
+item.raisemorale.name=Raise Morale
+item.rapidfirecannon.name=Rapid Firecannon
+item.statikkshiv.name=Statikk Shiv
+item.theblackspear.name=The Black Spear
+item.skirmisherssabrebloodrazor.name=Skirmisher's Sabre - Bloodrazor
+item.skirmisherssabrecinderhulk.name=Skirmisher's Sabre - Cinderhulk
+item.skirmisherssabrewarrior.name=Skirmisher's Sabre - Warrior
+item.stalkersbladebloodrazor.name=Stalker's Blade - Bloodrazor
+item.stalkersbladecinderhulk.name=Stalker's Blade - Cinderhulk
+item.stalkersbladewarrior.name=Stalker's Blade - Warrior
+item.trackersknifebloodrazor.name=Tracker's Knife - Bloodrazor
+item.trackersknifecinderhulk.name=Tracker's Knife - Cinderhulk
+item.trackersknifewarrior.name=Tracker's Knife - Warrior
+
+
+//Legend
+item.legendsword1.name=Legendsword1
+
+
+//GNames
+item.gname1.name=Gname1
+item.gname2.name=Gname2
+item.gname3.name=Gname3
+item.gname4.name=Gname4
+item.gname5.name=Gname5
+item.gname6.name=Gname6
+item.gname7.name=Gname7
+item.gname8.name=Gname8
+
+
+//Testing
+item.testinggem.name=Testing Gem
+item.testingingot.name=Testing Ingot
+tile.testingcube.name=Testing Cube
 
 
 //blocks
+tile.cheatski.name=Cheatski
+tile.brokensteel.name=Broken Steel
 tile.block_copper.name=Copper Block
 tile.doku_dirt.name=Doku Dirt
 tile.doku_clay.name=Doku Clay
@@ -188,6 +245,10 @@ tile.doku_stonebrick_mossy.name=Doku Mossy Stonebrick
 tile.doku_coarse_dirt.name=Doku Coarse Dirt
 tile.doku_glowstone.name=Doku Glowstone
 tile.doku_glass.name=Doku Glass
+tile.doku_glass_black.name=Doku Glass Black
+tile.doku_glass_blue.name=Doku Glass Blue
+tile.doku_glass_brown.name=Doku Glass Brown
+tile.doku_glass_cyan.name=Doku Glass Cyan
 
 
 //Tools
@@ -203,6 +264,11 @@ item.doku_gold_helmet.name=Doku Gold Helmet
 item.doku_gold_chestplate.name=Doku Gold Chestplate
 item.doku_gold_leggings.name=Doku Gold Leggings
 item.doku_gold_boots.name=Doku Gold Boots
+
+item.test_helmet.name=Test Helmet
+item.test_chestplate.name=Test Chestplate
+item.test_leggings.name=Test Leggings
+item.test_boots.name=Test Gold Boots
 
 
 //tab names

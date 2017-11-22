@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DS"     
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:needlesslylargerod"
+        },
+        
+        "S":
+        {
+            "item": "rmumx:aetherwisp"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:ludensecho"
+    }
+}
