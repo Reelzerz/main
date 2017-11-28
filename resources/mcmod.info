@@ -2,7 +2,7 @@
 {
   "modid": "rmumx",
   "name": "ReelzWorld",
-  "description": "Ore compalibilty for cubic chunks",
+  "description": "Creation of maps",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",

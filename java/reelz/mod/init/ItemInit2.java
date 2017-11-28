@@ -31,7 +31,7 @@ public class ItemInit2 {
 	
 	//Items
 	//**public static final Item INGOT_COPPER = new ItemBase("ingot_copper");
-	public static final Item WITSEND = new ItemBase("witsend");
+	
 
 	//Tools
 	//**public static final Item DOKU_GOLD_AXE = new ToolAxe("doku_gold_axe", DOKU_TOOL_GOLD);

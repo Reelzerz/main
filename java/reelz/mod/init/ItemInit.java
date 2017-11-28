@@ -34,6 +34,9 @@ public class ItemInit {
 	public static final Item INGOT_COPPER = new ItemBase("ingot_copper");
 	public static final Item DOKU_GOLD_INGOT = new ItemBase("doku_gold_ingot");
 	public static final Item DOKU_GOLD_NUGGET = new ItemBase("doku_gold_nugget");
+	public static final Item DOKU_DYE_POWDER_BLACK = new ItemBase("doku_dye_powder_black");
+	public static final Item DOKU_DYE_POWDER_BLUE = new ItemBase("doku_dye_powder_blue");
+	public static final Item DOKU_DYE_POWDER_BROWN = new ItemBase("doku_dye_powder_brown");
 	
 	//League Items
 	public static final Item ABYSSALMASK = new ItemBase("abyssalmask");
@@ -147,7 +150,7 @@ public class ItemInit {
 	public static final Item TRACKERSKNIFERUNICECHOES = new ItemBase("trackerskniferunicechoes");
 	public static final Item SKIRMISHERSABRE = new ItemBase("skirmisherssabre");
 	public static final Item STALKERSBLADE = new ItemBase("stalkersblade");
-	public static final Item SKIRMISHERSABRERUNICECHOES = new ItemBase("skirmisherssabrerunicechoes");
+	public static final Item SKIRMISHERSABREUNICECHOES = new ItemBase("skirmisherssabrerunicechoes");
 	public static final Item STALKERSBLADERUNICECHOES = new ItemBase("stalkersbladerunicechoes");
 	public static final Item BERSERKERSGREAVES = new ItemBase("berserkersgreaves");
 	public static final Item PHANTOMDANCER = new ItemBase("phantomdancer");
@@ -224,15 +227,16 @@ public class ItemInit {
 	public static final Item RAPIDFIRECANNON = new ItemBase("rapidfirecannon");
 	public static final Item STATIKKSHIV = new ItemBase("statikkshiv");
 	public static final Item THEBLACKSPEAR = new ItemBase("theblackspear");
-	public static final Item SKIRMISHERSSABERBLOODRAZOR = new ItemBase("skirmisherssabrebloodrazor");
-	public static final Item SKIRMISHERSSABERCINDERHULK = new ItemBase("skirmisherssabrecinderhulk");
-	public static final Item SKIRMISHERSSABERWARRIOR = new ItemBase("skirmisherssabrewarrior");
+	public static final Item SKIRMISHERSSABREBLOODRAZOR = new ItemBase("skirmisherssabrebloodrazor");
+	public static final Item SKIRMISHERSSABRECINDERHULK = new ItemBase("skirmisherssabrecinderhulk");
+	public static final Item SKIRMISHERSSABREWARRIOR = new ItemBase("skirmisherssabrewarrior");
 	public static final Item STALKERSBLADEBLOODRAZER = new ItemBase("stalkersbladebloodrazor");
 	public static final Item STALKERSBLADECINDERHULK = new ItemBase("stalkersbladecinderhulk");
 	public static final Item STALKERSBLADEWARRIOR = new ItemBase("stalkersbladewarrior");
 	public static final Item TRACKERSKNIFEBLOODRAZOR = new ItemBase("trackersknifebloodrazor");
 	public static final Item TRACKERSKNIFECINDERHULK = new ItemBase("trackersknifecinderhulk");
 	public static final Item TRACKERSKNIFEWARRIOR = new ItemBase("trackersknifewarrior");
+	public static final Item WITSEND = new ItemBase("witsend");
 	
 	//Tools
 	public static final Item DOKU_GOLD_AXE = new ToolAxe("doku_gold_axe", DOKU_TOOL_GOLD);
