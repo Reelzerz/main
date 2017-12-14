@@ -5,7 +5,10 @@ import net.minecraft.util.IStringSerializable;
 public class EnumHandler {
 	public static enum EnumType implements IStringSerializable
 	{
-		DOKU_OAK(0, "doku_oak");
+		DOKU_OAK(0, "doku_oak"),
+		IRON_ARMOR_TIER(0, "iron_armor__tier"),
+		IRON_TOOL_TIER(0, "iron_tool_tier");
+		
 		
 		private static final EnumType[] META_LOOKUP = new EnumType[values().length];
 		private final int meta;

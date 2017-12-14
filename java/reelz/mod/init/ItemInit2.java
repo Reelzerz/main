@@ -9,6 +9,7 @@ import net.minecraft.item.Item;
 import net.minecraft.item.Item.ToolMaterial;
 import net.minecraft.item.ItemArmor.ArmorMaterial;
 import reelz.mod.objects.armor.ArmorBase;
+import reelz.mod.objects.armor.ArmorBase2;
 import reelz.mod.objects.items.ItemBase;
 import reelz.mod.objects.tools.ToolAxe;
 import reelz.mod.objects.tools.ToolHoe;
@@ -25,8 +26,8 @@ public class ItemInit2 {
 	//EnumHelper.addToolMaterial(name, harvestLevel, maxUses, efficiency, damage, enchantability)
 	
 	//Material
-	//**static final ToolMaterial  DOKU_TOOL_GOLD = EnumHelper.addToolMaterial("doku_tool_gold", 0, 32, 12.0F, 0.0F, 22);
-	//**public static final ArmorMaterial DOKU_ARMOR_GOLD = EnumHelper.addArmorMaterial("doku_armor_gold", Reference.MODID + ":doku_Gold", 7, new int[]{1, 3, 5, 2}, 25, SoundEvents.ITEM_ARMOR_EQUIP_GOLD, 0.0F);
+	static final ToolMaterial  IRON_TOOL_TIER = EnumHelper.addToolMaterial("iron_tool_tier", 0, 32, 12.0F, 0.0F, 22);
+	public static final ArmorMaterial IRON_ARMOR_TIER = EnumHelper.addArmorMaterial("iron_armor_tier", Reference.MODID + ":iron_armor_tier", 7, new int[]{1, 3, 5, 2}, 25, SoundEvents.ITEM_ARMOR_EQUIP_IRON, 0.0F);
 	
 	
 	//Items
@@ -34,18 +35,17 @@ public class ItemInit2 {
 	
 
 	//Tools
-	//**public static final Item DOKU_GOLD_AXE = new ToolAxe("doku_gold_axe", DOKU_TOOL_GOLD);
-	//**public static final Item DOKU_GOLD_PICKAXE = new ToolPickaxe("doku_gold_pickaxe", DOKU_TOOL_GOLD);
-	//**public static final Item DOKU_GOLD_HOE = new ToolHoe("doku_gold_hoe", DOKU_TOOL_GOLD);
-	//**public static final Item DOKU_GOLD_SHOVEL = new ToolShovel("doku_gold_shovel", DOKU_TOOL_GOLD);
-	//**public static final Item DOKU_GOLD_SWORD = new ToolSword("doku_gold_sword", DOKU_TOOL_GOLD);
+	public static final Item IRON_AXE_TIER = new ToolAxe("iron_axe_tier", IRON_TOOL_TIER);
+	public static final Item IRON_PICKAXE_TIER = new ToolPickaxe("iron_pickaxe_tier", IRON_TOOL_TIER);
+	public static final Item IRON_HOE_TIER = new ToolHoe("iron_hoe_tier", IRON_TOOL_TIER);
+	public static final Item IRON_SHOVEL_TIER = new ToolShovel("iron_shovel_tier", IRON_TOOL_TIER);
+	public static final Item IRON_SWORD_TIER = new ToolSword("iron_sword_tier", IRON_TOOL_TIER);
 	
 	
 	//Armor
-	//**public static final Item DOKU_GOLD_HELMET = new ArmorBase("doku_gold_helmet", DOKU_ARMOR_GOLD, 1, EntityEquipmentSlot.HEAD);
-	//**public static final Item DOKU_GOLD_CHESTPLATE = new ArmorBase("doku_gold_chestplate", DOKU_ARMOR_GOLD, 1, EntityEquipmentSlot.CHEST);
-	//**public static final Item DOKU_GOLD_LEGGINGS = new ArmorBase("doku_gold_leggings", DOKU_ARMOR_GOLD, 2, EntityEquipmentSlot.LEGS);
-	//**public static final Item DOKU_GOLD_BOOTS = new ArmorBase("doku_gold_boots", DOKU_ARMOR_GOLD, 1, EntityEquipmentSlot.FEET);
+	public static final Item IRON_HELMET_TIER = new ArmorBase2("iron_helmet_tier", IRON_ARMOR_TIER, 1, EntityEquipmentSlot.HEAD);
+	public static final Item IRON_CHESTPLATE_TIER = new ArmorBase2("iron_chestplate_tier", IRON_ARMOR_TIER, 1, EntityEquipmentSlot.CHEST);
+	public static final Item IRON_LEGGINGS_TIER = new ArmorBase2("iron_leggings_tier", IRON_ARMOR_TIER, 2, EntityEquipmentSlot.LEGS);
+	public static final Item IRON_BOOTS_TIER = new ArmorBase2("iron_boots_tier", IRON_ARMOR_TIER, 1, EntityEquipmentSlot.FEET);
 	
-
 }

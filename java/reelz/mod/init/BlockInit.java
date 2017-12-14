@@ -15,6 +15,7 @@ import reelz.mod.objects.blocks.BlockBaseStone;
 import reelz.mod.objects.blocks.BlockLeaf;
 import reelz.mod.objects.blocks.BlockOres;
 import reelz.mod.objects.blocks.BlockPlank;
+import reelz.mod.test.TestBaseBlocks;
 
 public class BlockInit {
 	public static final List<Block> BLOCKS = new ArrayList<Block>();
@@ -44,7 +45,7 @@ public class BlockInit {
 	public static final Block DOKU_GLASS_CYAN = new BlockBaseGlass("doku_glass_cyan", Material.GLASS);
 	
 	//Testing
-	public static final Block TESTINGCUBE = new BlockBase2("testingcube", Material.GLASS);
+	public static final Block TESTINGCUBE = new TestBaseBlocks("testingcube", Material.GLASS);
 	
 	//Other
 	public static final Block CHEATSKI = new BlockBaseCheat("cheatski", Material.GLASS);

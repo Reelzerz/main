@@ -17,6 +17,8 @@ import reelz.mod.objects.tools.ToolHoe;
 import reelz.mod.objects.tools.ToolPickaxe;
 import reelz.mod.objects.tools.ToolShovel;
 import reelz.mod.objects.tools.ToolSword;
+import reelz.mod.test.TestBaseArmor;
+import reelz.mod.test.TestBaseItem;
 import reelz.mod.util.Reference;
 import net.minecraftforge.common.util.EnumHelper;
 
@@ -237,6 +239,8 @@ public class ItemInit {
 	public static final Item TRACKERSKNIFECINDERHULK = new ItemBase("trackersknifecinderhulk");
 	public static final Item TRACKERSKNIFEWARRIOR = new ItemBase("trackersknifewarrior");
 	public static final Item WITSEND = new ItemBase("witsend");
+
+
 	
 	//Tools
 	public static final Item DOKU_GOLD_AXE = new ToolAxe("doku_gold_axe", DOKU_TOOL_GOLD);
@@ -265,13 +269,13 @@ public class ItemInit {
 	public static final Item GNAME8 = new ItemBase("gname8");
 	
 	//Testing
-	public static final Item TESTINGGEM = new ItemBase2("testinggem");
-	public static final Item TESTINGINGOT = new ItemBase2("testingingot");
-	public static final ArmorMaterial TESTINGARMOR = EnumHelper.addArmorMaterial("testing", Reference.MODID + ":test", 7, new int[]{1, 3, 5, 2}, 25, SoundEvents.ITEM_ARMOR_EQUIP_GOLD, 0.0F);
-	public static final Item TEST_HELMET = new ArmorBase2("test_helmet", TESTINGARMOR, 1, EntityEquipmentSlot.HEAD);
-	public static final Item TEST_CHESTPLATE = new ArmorBase2("test_chestplate", TESTINGARMOR, 1, EntityEquipmentSlot.CHEST);
-	public static final Item TEST_LEGGINGS = new ArmorBase2("test_leggings", TESTINGARMOR, 2, EntityEquipmentSlot.LEGS);
-	public static final Item TEST_BOOTS = new ArmorBase2("test_boots", TESTINGARMOR, 1, EntityEquipmentSlot.FEET);
+	public static final Item TESTINGGEM = new TestBaseItem("testinggem");
+	public static final Item TESTINGINGOT = new TestBaseItem("testingingot");
+	public static final ArmorMaterial TESTINGARMOR = EnumHelper.addArmorMaterial("testing", Reference.MODID + ":test", 7, new int[]{3, 6, 6, 4}, 25, SoundEvents.ITEM_ARMOR_EQUIP_IRON, 0.0F);
+	public static final Item TEST_HELMET = new TestBaseArmor("test_helmet", TESTINGARMOR, 1, EntityEquipmentSlot.HEAD);
+	public static final Item TEST_CHESTPLATE = new TestBaseArmor("test_chestplate", TESTINGARMOR, 1, EntityEquipmentSlot.CHEST);
+	public static final Item TEST_LEGGINGS = new TestBaseArmor("test_leggings", TESTINGARMOR, 2, EntityEquipmentSlot.LEGS);
+	public static final Item TEST_BOOTS = new TestBaseArmor("test_boots", TESTINGARMOR, 1, EntityEquipmentSlot.FEET);
 	
 
 }
