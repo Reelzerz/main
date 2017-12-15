@@ -9,19 +9,26 @@ import java.util.Set;
 import com.google.common.collect.Sets;
 
 import net.minecraft.block.Block;
+import net.minecraft.block.BlockDirt;
+import net.minecraft.block.state.IBlockState;
 import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.init.Blocks;
 import net.minecraft.item.ItemHoe;
+import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemTool;
+import net.minecraft.util.EnumFacing;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.world.World;
 
 
-public class ToolHoe extends ItemTool implements IHasModel 
+public class ToolHoe extends ItemHoe implements IHasModel 
 {
 	
-	private static final Set<Block> EFFECTIVE_ON = Sets.newHashSet(Blocks.GRASS, Blocks.DIRT);
+	
 	public ToolHoe(String name, ToolMaterial material) 
 	{
-		super(material, EFFECTIVE_ON);
+		super(material);
 		setUnlocalizedName(name);
 		setRegistryName(name);
 		setCreativeTab(Main.REELZT);

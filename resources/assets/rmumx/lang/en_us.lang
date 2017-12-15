@@ -225,6 +225,10 @@ item.gname8.name=Gname8
 item.testinggem.name=Testing Gem
 item.testingingot.name=Testing Ingot
 tile.testingcube.name=Testing Cube
+item.test_helmet.name=Test Helmet
+item.test_chestplate.name=Test Chestplate
+item.test_leggings.name=Test Leggings
+item.test_boots.name=Test Boots
 
 
 //blocks
@@ -260,6 +264,14 @@ item.doku_gold_pickaxe.name=Doku Gold Pickaxe
 item.doku_gold_hoe.name=Doku Gold Hoe
 item.doku_gold_shovel.name=Doku Gold Shovel
 item.doku_gold_sword.name=Doku Gold Sword
+item.iron_axe_tier.name=Iron Axe
+item.iron_pickaxe_tier.name=Iron Pickaxe
+item.iron_hoe_tier.name=Iron Hoe
+item.iron_shovel_tier.name=Iron Shovel
+item.iron_sword_tier.name=Iron Sword
+item.iron_hammer_tier.name=Iron Hammer
+item.iron_knife_tier.name=Iron Knife
+item.iron_mace_tier.name=Iron Mace
 
 
 //Armor
@@ -267,11 +279,10 @@ item.doku_gold_helmet.name=Doku Gold Helmet
 item.doku_gold_chestplate.name=Doku Gold Chestplate
 item.doku_gold_leggings.name=Doku Gold Leggings
 item.doku_gold_boots.name=Doku Gold Boots
-
-item.test_helmet.name=Test Helmet
-item.test_chestplate.name=Test Chestplate
-item.test_leggings.name=Test Leggings
-item.test_boots.name=Test Gold Boots
+item.iron_helmet_tier.name=Iron Helmet
+item.iron_chestplate_tier.name=Iron Chestplate
+item.iron_leggings_tier.name=Iron Leggings
+item.iron_boots_tier.name=Iron Boots
 
 
 //tab names

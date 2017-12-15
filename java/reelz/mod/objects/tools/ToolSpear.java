@@ -7,9 +7,9 @@ import reelz.mod.Main;
 import reelz.mod.init.ItemInit;
 import reelz.mod.util.interfaces.IHasModel;
 
-public class ToolSword extends ItemSword implements IHasModel
+public class ToolSpear extends ItemSword implements IHasModel
 {
-	public ToolSword(String name, ToolMaterial material) 
+	public ToolSpear(String name, ToolMaterial material) 
 	{
 		super(material);
 		setUnlocalizedName(name);
