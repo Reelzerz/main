@@ -99,4 +99,16 @@ public class BlockOres extends Block implements IHasModel, IMetaName {
 			Main.proxy.registerVariantRenderer(Item.getItemFromBlock(this), i, "ore_" + this.dimension + "_" + EnumHandler.EnumType.values()[i].getName(), "inventory");
 		}
 	}
+
+	@Override
+	public double attackSpeed() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public float damagePotential() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }

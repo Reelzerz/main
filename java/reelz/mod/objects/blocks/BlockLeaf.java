@@ -153,4 +153,16 @@ public class BlockLeaf extends BlockLeaves implements IMetaName, IHasModel
 			Main.proxy.registerVariantRenderer(Item.getItemFromBlock(this), i, "leaves_" + EnumHandler.EnumType.values()[i].getName(), "inventory");
 		}
 	}
+
+	@Override
+	public double attackSpeed() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public float damagePotential() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }

@@ -24,4 +24,16 @@ public class ItemBase extends Item implements IHasModel {
 	{
 		Main.proxy.registerItemRenderer(this, 0, "inventory");
 	}
+
+	@Override
+	public double attackSpeed() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public float damagePotential() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }

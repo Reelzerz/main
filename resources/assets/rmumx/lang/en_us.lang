@@ -204,6 +204,7 @@ item.trackersknifewarrior.name=Tracker's Knife - Warrior
 item.doku_dye_powder_black.name=Doku Black Ink
 item.doku_dye_powder_blue.name=Doku Blue Dye
 item.doku_dye_powder_brown.name=Doku Brown Dye
+item.iron_ingot_tier.name=Iron Ingot
 
 
 //Legend
@@ -272,6 +273,11 @@ item.iron_sword_tier.name=Iron Sword
 item.iron_hammer_tier.name=Iron Hammer
 item.iron_knife_tier.name=Iron Knife
 item.iron_mace_tier.name=Iron Mace
+item.iron_spear_tier.name=Iron Spear
+item.steel_axe_tier.name=Steel Axe Tier
+item.steel_pickaxe_tier.name=Steel Pickaxe Tier
+item.steel_hoe_tier.name=Steel Hoe Tier
+item.steel_shovel_tier.name=Steel Shovel Tier
 
 
 //Armor

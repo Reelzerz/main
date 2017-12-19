@@ -13,6 +13,7 @@ import reelz.mod.objects.armor.ArmorBase2;
 import reelz.mod.objects.items.ItemBase;
 import reelz.mod.objects.tools.ToolAxe;
 import reelz.mod.objects.tools.ToolHoe;
+import reelz.mod.objects.tools.ToolKnife;
 import reelz.mod.objects.tools.ToolPickaxe;
 import reelz.mod.objects.tools.ToolShovel;
 import reelz.mod.objects.tools.ToolSword;
@@ -25,13 +26,16 @@ public class ItemInit2 {
 	//Example
 	//EnumHelper.addToolMaterial(name, harvestLevel, maxUses, efficiency, damage, enchantability)
 	
-	//Material
+	//Material Tool
 	static final ToolMaterial  IRON_TOOL_TIER = EnumHelper.addToolMaterial("iron_tool_tier", 0, 32, 12.0F, 0.0F, 22);
+	static final ToolMaterial  STEEL_TOOL_TIER = EnumHelper.addToolMaterial("steel_tool_tier", 0, 32, 12.0F, 0.0F, 22);
+	//Material Armor
 	public static final ArmorMaterial IRON_ARMOR_TIER = EnumHelper.addArmorMaterial("iron_armor_tier", Reference.MODID + ":iron_armor_tier", 7, new int[]{1, 3, 5, 2}, 25, SoundEvents.ITEM_ARMOR_EQUIP_IRON, 0.0F);
+	public static final ArmorMaterial STEEL_ARMOR_TIER = EnumHelper.addArmorMaterial("steel_armor_tier", Reference.MODID + ":steel_armor_tier", 7, new int[]{1, 3, 5, 2}, 25, SoundEvents.ITEM_ARMOR_EQUIP_IRON, 0.0F);
 	
 	
 	//Items
-	//**public static final Item INGOT_COPPER = new ItemBase("ingot_copper");
+	public static final Item IRON_INGOT_TIER = new ItemBase("iron_ingot_tier");
 	
 
 	//Tools
@@ -39,7 +43,15 @@ public class ItemInit2 {
 	public static final Item IRON_PICKAXE_TIER = new ToolPickaxe("iron_pickaxe_tier", IRON_TOOL_TIER);
 	public static final Item IRON_HOE_TIER = new ToolHoe("iron_hoe_tier", IRON_TOOL_TIER);
 	public static final Item IRON_SHOVEL_TIER = new ToolShovel("iron_shovel_tier", IRON_TOOL_TIER);
+	public static final Item IRON_KNIFE_TIER = new ToolKnife("iron_knife_tier", IRON_TOOL_TIER);
+	public static final Item IRON_SPEAR_TIER = new ToolSword("iron_spear_tier", IRON_TOOL_TIER);
+	public static final Item IRON_HAMMER_TIER = new ToolSword("iron_hammer_tier", IRON_TOOL_TIER);
 	public static final Item IRON_SWORD_TIER = new ToolSword("iron_sword_tier", IRON_TOOL_TIER);
+	public static final Item IRON_MACE_TIER = new ToolSword("iron_mace_tier", IRON_TOOL_TIER);
+	public static final Item STEEL_AXE_TIER = new ToolAxe("steel_axe_tier", STEEL_TOOL_TIER);
+	public static final Item STEEL_PICKAXE_TIER = new ToolPickaxe("steel_pickaxe_tier", STEEL_TOOL_TIER);
+	public static final Item STEEL_HOE_TIER = new ToolHoe("steel_hoe_tier", STEEL_TOOL_TIER);
+	public static final Item STEEL_SHOVEL_TIER = new ToolShovel("steel_shovel_tier", STEEL_TOOL_TIER);
 	
 	
 	//Armor

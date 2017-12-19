@@ -29,4 +29,16 @@ public class BlockBase extends Block implements IHasModel {
 	{
 		Main.proxy.registerItemRenderer(Item.getItemFromBlock(this), 0, "inventory");
 	}
+
+	@Override
+	public double attackSpeed() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public float damagePotential() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }

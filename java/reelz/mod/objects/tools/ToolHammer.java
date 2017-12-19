@@ -24,4 +24,14 @@ public class ToolHammer extends ItemSword implements IHasModel
 	{
 		Main.proxy.registerItemRenderer(this, 0, "inventory");
 	}
+	
+	@Override
+	public float damagePotential() {
+		return 1.0f;
+	}
+
+	@Override
+	public double attackSpeed() {
+		return 1.0d; // default vanilla sword speed
+	}
 }

@@ -107,4 +107,16 @@ public class BlockPlank extends Block implements IMetaName, IHasModel {
 			Main.proxy.registerVariantRenderer(Item.getItemFromBlock(this), i, "planks_" + EnumHandler.EnumType.values()[i].getName(), "inventory");
 		}
 	}
+
+	@Override
+	public double attackSpeed() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public float damagePotential() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }

@@ -34,4 +34,14 @@ public class ToolPickaxe extends ItemPickaxe implements IHasModel
 	{
 		Main.proxy.registerItemRenderer(this, 0, "inventory");
 	}
+	
+	@Override
+	public float damagePotential() {
+		return 0.1f;
+	}
+
+	@Override
+	public double attackSpeed() {
+		return 1.6d; // default vanilla sword speed
+	}
 }
