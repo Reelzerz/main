@@ -278,6 +278,20 @@ item.steel_axe_tier.name=Steel Axe Tier
 item.steel_pickaxe_tier.name=Steel Pickaxe Tier
 item.steel_hoe_tier.name=Steel Hoe Tier
 item.steel_shovel_tier.name=Steel Shovel Tier
+item.steel_hammer_tier.name=Steel Hammer Tier
+item.steel_knife_tier.name=Steel Knife Tier
+item.steel_mace_tier.name=Steel Mace Tier
+item.steel_spear_tier.name=Steel Spear Tier
+item.steel_sword_tier.name=Steel Sword Tier
+item.adamantite_axe_tier.name=Adamantite Axe Tier
+item.adamantite_hoe_tier.name=Adamantite Hoe Tier
+item.adamantite_pickaxe_tier.name=Adamantite Pickaxe Tier
+item.adamantite_shovel_tier.name=Adamantite Shovel Tier
+item.adamantite_spear_tier.name=Adamantite Spear Tier
+item.adamantite_hammer_tier.name=Adamantite Hammer Tier
+item.adamantite_knife_tier.name=Adamantite Knife Tier
+item.adamantite_mace_tier.name=Adamantite Mace Tier
+item.adamantite_sword_tier.name=Adamantite Sword Tier
 
 
 //Armor
