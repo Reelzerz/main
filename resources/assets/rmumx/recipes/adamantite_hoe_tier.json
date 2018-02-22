@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DD",
+        " S",
+        " S"      
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "item": "rmumx:adamantite_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rmumx:adamantite_hoe_tier"
+    }
+}

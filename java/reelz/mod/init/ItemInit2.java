@@ -37,6 +37,7 @@ public class ItemInit2 {
 	
 	//Items
 	public static final Item IRON_INGOT_TIER = new ItemBase("iron_ingot_tier");
+	public static final Item ADAMANTITE_INGOT = new ItemBase("adamantite_ingot");
 	
 
 	//Tools
